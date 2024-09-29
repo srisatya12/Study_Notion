@@ -7,7 +7,7 @@ import Logo from "../../assets/Logo/Logo-Full-Light.png";
 
 // Icons
 import { FaFacebook, FaGoogle, FaTwitter, FaYoutube } from "react-icons/fa";
-
+//removing subjects,blogs, career building from footer [p-3]
 const BottomFooter = ["Privacy Policy", "Cookie Policy", "Terms"];
 const Resources = [
   "Articles",
@@ -171,8 +171,6 @@ const Footer = () => {
               );
             })}
           </div>
-
-          <div className="text-center">Made with ❤️ CodeHelp © 2023 Studynotion</div>
         </div>
       </div>
     </div>
