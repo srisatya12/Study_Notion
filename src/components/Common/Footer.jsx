@@ -171,6 +171,8 @@ const Footer = () => {
               );
             })}
           </div>
+
+          <div className="text-center">Made with ❤️ Srisatya © 2023 Studynotion</div>
         </div>
       </div>
     </div>
